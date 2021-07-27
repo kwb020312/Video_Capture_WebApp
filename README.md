@@ -1,5 +1,14 @@
 # :movie_camera: 웹 캠 활용
 
+<img src="https://yt3.ggpht.com/ytc/AKedOLTdyKcjkkPdb3OfdJ_Esptm4Ry_gWSpqflRqWHa=s48-c-k-c0x00ffffff-no-rj">
+해당 저장소는 Youtube code Scalper 님의 강좌 중 <a href="https://www.youtube.com/watch?v=g6RpmxvHAZY">녹화프로그램! HTML, JS로 직접 만들어봅시다.</a> 를 기반으로 제작되었음을 미리 밝힙니다.
+
+요즘 여러 회사에서 비대면 서비스를 많이 진행하며 웹을 다루는데에 있어 WebRTC등 여러 기술들을 미리 체험해보는 것이 필요하다고 느껴 해당 저장소를 만들게되었다.
+
+<img src=".\gitImages\캡처.PNG>">
+
+위와 같은 기능을 구현해보겠음
+
 ```javascript
 let recorder;
 let recordedChunks;
